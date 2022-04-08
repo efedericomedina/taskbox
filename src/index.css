@@ -395,14 +395,14 @@ input:-webkit-autofill {
 }
 .input-symbol input:focus + [class^="icon-"],
 .input-symbol input:focus + [class*=" icon-"] {
-  color: hsl(118, 65%, 50%);
+  color: #2cc5d2;
 }
 .input-symbol [class^="icon-"],
 .input-symbol [class*=" icon-"] {
   transition: all 300ms ease-in;
   transform: translate3d(0, -50%, 0);
   background: transparent;
-  color: rgb(62, 57, 133);
+  color: #aaa;
   font-size: 1em;
   height: 1em;
   position: absolute;
