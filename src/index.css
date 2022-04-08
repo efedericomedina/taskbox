@@ -395,7 +395,7 @@ input:-webkit-autofill {
 }
 .input-symbol input:focus + [class^="icon-"],
 .input-symbol input:focus + [class*=" icon-"] {
-  color: #2cc5d2;
+  color: hsl(118, 65%, 50%);
 }
 .input-symbol [class^="icon-"],
 .input-symbol [class*=" icon-"] {
